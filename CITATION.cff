@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use FILT3R, please cite the paper and this repository."
+title: "FILT3R: Latent State Adaptive Kalman Filter for Streaming 3D Reconstruction"
+type: software
+authors:
+  - family-names: Jin
+    given-names: Seonghyun
+  - family-names: Ye
+    given-names: Jong Chul
+repository-code: "https://github.com/jinotter3/FILT3R"
+url: "https://arxiv.org/abs/2603.18493"
+preferred-citation:
+  type: article
+  title: "FILT3R: Latent State Adaptive Kalman Filter for Streaming 3D Reconstruction"
+  authors:
+    - family-names: Jin
+      given-names: Seonghyun
+    - family-names: Ye
+      given-names: Jong Chul
+  doi: "10.48550/arXiv.2603.18493"
+  year: 2026
+  journal: "arXiv preprint arXiv:2603.18493"
