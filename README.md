@@ -18,6 +18,11 @@ TL;DR: FILT3R is a training-free latent filtering layer that stabilizes long-hor
 </div>
 <br>
 
+## News
+
+- **FILT3R is accepted to ECCV 2026.**
+<br>
+
 <!-- GitHub README pages do not reliably render repository-relative MP4 files inline.
      To show a true video player, upload assets/highlight.mp4 in the GitHub Markdown
      editor and replace this GIF block with the generated github.com/user-attachments URL. -->
